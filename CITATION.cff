@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite it as below."
+title: "Does Central U.S. Weather Explain National Crop Yields? A Correlation and Machine Learning Analysis (1981–2023)"
+authors:
+  - family-names: "[Your Last Name]"
+    given-names: "[Your First Name]"
+date-released: 2026-09-27
+license: MIT
+repository-code: "https://github.com/[your-username]/[repo-name]"
